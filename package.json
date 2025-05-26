@@ -1,0 +1,15 @@
+{
+  "name": "g",
+  "version": "1.0.0",
+  "description": "Aplicación CRUD para qr de información",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Virginia Nemec",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.0"
+  }
+}
